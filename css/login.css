@@ -1,0 +1,24 @@
+.text h1,.text h2,.enrol{
+  float:left;
+}
+.text h1{
+  font-size:30px;
+  font-weight: bold;
+}
+.text h2{
+  margin-left:5px;
+  font-size:20px;
+  line-height:40px;
+  font-weight:bold;
+  color:#999;
+}
+.enrol{
+  line-height:82px;
+  font-size:18px;
+}
+.account-number,.account-password{
+  margin-bottom:10px;
+}
+.btn{
+  margin-bottom:20px;
+}
